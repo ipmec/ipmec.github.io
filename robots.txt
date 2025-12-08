@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ipmec.github.io/sitemap.xml
