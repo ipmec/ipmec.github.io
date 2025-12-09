@@ -7,8 +7,8 @@ nav: true
 nav_order: 7
 
 categories:
-  - people
-  - profiles
+  - permanent
+  - temporary
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -19,13 +19,51 @@ profiles:
     content: about_aamor.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Associate professor</p>
+      <p>Associate Professor</p>
       <p>Group of Radiofrequency, Electromagnetics, Microwaves, and Antennas</p>
       <p>University Carlos III of Madrid</p>
   - align: left
     image: prof_pic.jpg
-    category: profiles
-    content: about_einstein.md
+    category: people
+    content: about_badia.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Associate Professor</p>
+      <p>Group of XXX</p>
+      <p>Universitat Jaume I de Castelló</p>
+  - align: right
+    image: prof_pic.jpg
+    category: people
+    content: about_belloch.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Associate Professor</p>
+      <p>Group of XXX</p>
+      <p>University Carlos III of Madrid</p>
+  - align: left
+    image: prof_pic.jpg
+    category: people
+    content: about_leon.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Associate Professor</p>
+      <p>Group of XXX</p>
+      <p>Universitat Jaume I de Castelló</p>    
+      
+      
+  - align: right
+    image: prof_pic.jpg
+    category: temporary
+    content: about_lester.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: left
+    image: prof_pic.jpg
+    category: temporary
+    content: about_ignacio.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
