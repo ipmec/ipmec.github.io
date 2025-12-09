@@ -30,3 +30,5 @@ latest_posts:
 IPMEC (Integrated Physical Modeling and Efficient Computation) is an inter-university research group focused on the implementation of advanced algorithms to support sensing performed by hardware devices in embedded systems. The group also exploits High Performance Computing (HPC) infrastructures for the mathematical modeling of the electromagnetic waves underlying these sensing mechanisms, providing accurate forward and inverse models that can be coupled with modern Artificial Intelligence techniques to enhance sensor resolution, sensitivity and robustness.
 
 The team is composed of four associate professors (two from Universidad Carlos III de Madrid and two from Universitat Jaume I) and two PhD students. Together, they cover complementary expertise in electromagnetics, numerical methods, embedded systems and machine learning, enabling end-to-end developments that range from the design of efficient firmware and signal processing pipelines on constrained hardware to large-scale simulations and physics-informed AI models running on HPC platforms.
+
+Members:
