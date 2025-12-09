@@ -15,7 +15,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic_aamor.jpg
-    category: people
+    category: permanent
     content: about_aamor.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -24,7 +24,7 @@ profiles:
       <p>University Carlos III of Madrid</p>
   - align: left
     image: prof_pic.jpg
-    category: people
+    category: permanent
     content: about_badia.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -33,7 +33,7 @@ profiles:
       <p>Universitat Jaume I de Castelló</p>
   - align: right
     image: prof_pic.jpg
-    category: people
+    category: permanent
     content: about_belloch.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -42,7 +42,7 @@ profiles:
       <p>University Carlos III of Madrid</p>
   - align: left
     image: prof_pic.jpg
-    category: people
+    category: permanent
     content: about_leon.md
     image_circular: false # crops the image to make it circular
     more_info: >
